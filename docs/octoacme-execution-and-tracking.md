@@ -22,6 +22,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- QA Lead signs off on test coverage and release readiness
+- Usability validation with UX Designer for user-facing changes
 
 ## Reporting & Metrics
 - Track velocity and burndown

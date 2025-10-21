@@ -18,6 +18,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+- Quality approach and testing strategy (coordinated with QA Lead)
+- User experience considerations (reviewed with UX Designer)
 
 ## Project One-pager Template
 - Project name:
@@ -27,7 +29,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Primary stakeholders:
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
-- Proposed team / roles:
+- Proposed team / roles (PM, Product, Dev, QA Lead, UX Designer, Release Manager, Support as needed):
+- User research needs (if applicable):
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
